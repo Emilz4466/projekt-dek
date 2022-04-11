@@ -1,0 +1,1 @@
+Node modules are added to git-ignore - hence in order to run react app after pulling type 'npm install' in the console in the client directory.
